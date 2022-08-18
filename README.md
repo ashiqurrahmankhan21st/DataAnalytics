@@ -12,6 +12,16 @@ Descriptions:
 There are multiple reasons for downtime. There are solid definations of
 "Downtime" and "Loss time", that is not our focus. This DataSet contains M/C Break Downs time, Needle Breakdown Time, etc & Resposible Department and Reason behind the Downtime.
 
+Date                      datetime64[ns]
+Line_No                           object
+Responsible_Department            object
+Problem_Name                      object
+M/C_ID                            object
+Problem_Start_Time        datetime64[ns]
+Problem_End_Time          datetime64[ns]
+Total_Downtime (Min)             float64
+dtype: object
+
 
 Possible Findings will be:
 
