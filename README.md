@@ -19,7 +19,8 @@ Possible Findings will be:
 2) What is reason that is responsible for most of the breakdown time of a day
 3) At which portion of the Working Hour breakdown happens most
 4) At which portin of the week/month breakdown causes most
+5) Machines that coause maximum Breakdowns; that can be replaced or take some preventive measures to reduce Downtime
 
 Note: Other findings may be added in future
 
- Ⓒ This DataSet is useable for this Project only. Company Name is Classified.
+ Ⓒ This DataSet is useable for this Project only. No farther use.
