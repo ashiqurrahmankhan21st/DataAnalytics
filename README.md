@@ -33,4 +33,4 @@ Possible Findings will be:
 
 Note: Other findings may be added in future
 
- Ⓒ This DataSet is useable for this Project only. No farther use.
+ Ⓒ if anybody use the above files of this repository except me, legal action will be taken.
